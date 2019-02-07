@@ -1,0 +1,29 @@
+{
+    "types": [
+        {
+            "id": "type-1",
+            "name": "type 1",
+            "material": "nylon"
+        },
+        {
+            "id": "type-2",
+            "name": "type 2",
+            "material": "silk cotton"
+        },
+        {
+            "id": "type-3",
+            "name": "type 3",
+            "material": "Call for more details"
+        },
+        {
+            "id": "type-4",
+            "name": "type 4",
+            "material": "cotton"
+        },
+        {
+            "id": "type-5",
+            "name": "type 5",
+            "material": "silk"
+        }
+    ]
+}
